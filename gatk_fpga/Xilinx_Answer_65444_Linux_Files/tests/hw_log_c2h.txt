@@ -1,0 +1,783 @@
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 64 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000040
+device = /dev/xdma0_c2h_0, size = 0x00000040, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 64
+perf.iterations = 43666737
+(data transferred = 2794671168 bytes)
+perf.clock_cycle_count = 498877788
+perf.data_cycle_count = 87333611
+(data duty cycle = 17%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 64 bytes
+perf.iterations = 43667073
+(data transferred = 2794692672 bytes)
+perf.clock_cycle_count = 498881323
+perf.data_cycle_count = 87334146
+(data duty cycle = 17%)
+ data rate ***** bytes length = 64, rate = 0.175060 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 128 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000080
+device = /dev/xdma0_c2h_0, size = 0x00000080, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 128
+perf.iterations = 43501207
+(data transferred = 5568154496 bytes)
+perf.clock_cycle_count = 498877762
+perf.data_cycle_count = 174005060
+(data duty cycle = 34%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 128 bytes
+perf.iterations = 43501565
+(data transferred = 5568200320 bytes)
+perf.clock_cycle_count = 498881446
+perf.data_cycle_count = 174006236
+(data duty cycle = 34%)
+ data rate ***** bytes length = 128, rate = 0.348793 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 256 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000100
+device = /dev/xdma0_c2h_0, size = 0x00000100, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 256
+perf.iterations = 41866943
+(data transferred = 10717937408 bytes)
+perf.clock_cycle_count = 498877756
+perf.data_cycle_count = 334936003
+(data duty cycle = 67%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 256 bytes
+perf.iterations = 41867301
+(data transferred = 10718029056 bytes)
+perf.clock_cycle_count = 498881510
+perf.data_cycle_count = 334938368
+(data duty cycle = 67%)
+ data rate ***** bytes length = 256, rate = 0.671379 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 512 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000200
+device = /dev/xdma0_c2h_0, size = 0x00000200, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 512
+perf.iterations = 24571359
+(data transferred = 12580535808 bytes)
+perf.clock_cycle_count = 498877688
+perf.data_cycle_count = 393142470
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 512 bytes
+perf.iterations = 24571543
+(data transferred = 12580630016 bytes)
+perf.clock_cycle_count = 498880984
+perf.data_cycle_count = 393144818
+(data duty cycle = 78%)
+ data rate ***** bytes length = 512, rate = 0.788053 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 1024 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000400
+device = /dev/xdma0_c2h_0, size = 0x00000400, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 1024
+perf.iterations = 12287991
+(data transferred = 12582902784 bytes)
+perf.clock_cycle_count = 498877336
+perf.data_cycle_count = 393216698
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 1024 bytes
+perf.iterations = 12288094
+(data transferred = 12583008256 bytes)
+perf.clock_cycle_count = 498881057
+perf.data_cycle_count = 393219365
+(data duty cycle = 78%)
+ data rate ***** bytes length = 1024, rate = 0.788203 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 2048 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000800
+device = /dev/xdma0_c2h_0, size = 0x00000800, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 2048
+perf.iterations = 6140302
+(data transferred = 12575338496 bytes)
+perf.clock_cycle_count = 498878193
+perf.data_cycle_count = 392980247
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 2048 bytes
+perf.iterations = 6140353
+(data transferred = 12575442944 bytes)
+perf.clock_cycle_count = 498881928
+perf.data_cycle_count = 392982940
+(data duty cycle = 78%)
+ data rate ***** bytes length = 2048, rate = 0.787727 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 4096 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00001000
+device = /dev/xdma0_c2h_0, size = 0x00001000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 4096
+perf.iterations = 3073333
+(data transferred = 12588371968 bytes)
+perf.clock_cycle_count = 498877092
+perf.data_cycle_count = 393387417
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 4096 bytes
+perf.iterations = 3073359
+(data transferred = 12588478464 bytes)
+perf.clock_cycle_count = 498880868
+perf.data_cycle_count = 393390139
+(data duty cycle = 78%)
+ data rate ***** bytes length = 4096, rate = 0.788545 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 8192 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00002000
+device = /dev/xdma0_c2h_0, size = 0x00002000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 8192
+perf.iterations = 1534179
+(data transferred = 12567994368 bytes)
+perf.clock_cycle_count = 498877704
+perf.data_cycle_count = 392750848
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 8192 bytes
+perf.iterations = 1534193
+(data transferred = 12568109056 bytes)
+perf.clock_cycle_count = 498881527
+perf.data_cycle_count = 392753623
+(data duty cycle = 78%)
+ data rate ***** bytes length = 8192, rate = 0.787268 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 16384 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00004000
+device = /dev/xdma0_c2h_0, size = 0x00004000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 16384
+perf.iterations = 771113
+(data transferred = 12633915392 bytes)
+perf.clock_cycle_count = 498877112
+perf.data_cycle_count = 394810873
+(data duty cycle = 79%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 16384 bytes
+perf.iterations = 771120
+(data transferred = 12634030080 bytes)
+perf.clock_cycle_count = 498881076
+perf.data_cycle_count = 394813727
+(data duty cycle = 79%)
+ data rate ***** bytes length = 16384, rate = 0.791398 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 32768 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00008000
+device = /dev/xdma0_c2h_0, size = 0x00008000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 32768
+perf.iterations = 385756
+(data transferred = 12640452608 bytes)
+perf.clock_cycle_count = 498877818
+perf.data_cycle_count = 395015899
+(data duty cycle = 79%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 32768 bytes
+perf.iterations = 385760
+(data transferred = 12640583680 bytes)
+perf.clock_cycle_count = 498881645
+perf.data_cycle_count = 395018637
+(data duty cycle = 79%)
+ data rate ***** bytes length = 32768, rate = 0.791808 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 65536 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00010000
+device = /dev/xdma0_c2h_0, size = 0x00010000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 65536
+perf.iterations = 193192
+(data transferred = 12661030912 bytes)
+perf.clock_cycle_count = 498877815
+perf.data_cycle_count = 395659807
+(data duty cycle = 79%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 65536 bytes
+perf.iterations = 193194
+(data transferred = 12661161984 bytes)
+perf.clock_cycle_count = 498881955
+perf.data_cycle_count = 395662845
+(data duty cycle = 79%)
+ data rate ***** bytes length = 65536, rate = 0.793099 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 131072 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00020000
+device = /dev/xdma0_c2h_0, size = 0x00020000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 131072
+perf.iterations = 96131
+(data transferred = 12600082432 bytes)
+perf.clock_cycle_count = 498877866
+perf.data_cycle_count = 393754932
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 131072 bytes
+perf.iterations = 96132
+(data transferred = 12600213504 bytes)
+perf.clock_cycle_count = 498881599
+perf.data_cycle_count = 393757634
+(data duty cycle = 78%)
+ data rate ***** bytes length = 131072, rate = 0.789281 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 262144 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00040000
+device = /dev/xdma0_c2h_0, size = 0x00040000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 262144
+perf.iterations = 48279
+(data transferred = 12656050176 bytes)
+perf.clock_cycle_count = 498879551
+perf.data_cycle_count = 395504573
+(data duty cycle = 79%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 262144 bytes
+perf.iterations = 48279
+(data transferred = 12656050176 bytes)
+perf.clock_cycle_count = 498883034
+perf.data_cycle_count = 395507072
+(data duty cycle = 79%)
+ data rate ***** bytes length = 262144, rate = 0.792785 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 524288 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00080000
+device = /dev/xdma0_c2h_0, size = 0x00080000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 524288
+perf.iterations = 24150
+(data transferred = 12661555200 bytes)
+perf.clock_cycle_count = 498877765
+perf.data_cycle_count = 395690415
+(data duty cycle = 79%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 524288 bytes
+perf.iterations = 24151
+(data transferred = 12662079488 bytes)
+perf.clock_cycle_count = 498881529
+perf.data_cycle_count = 395693148
+(data duty cycle = 79%)
+ data rate ***** bytes length = 524288, rate = 0.793161 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 1048576 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00100000
+device = /dev/xdma0_c2h_0, size = 0x00100000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 1048576
+perf.iterations = 12083
+(data transferred = 12669943808 bytes)
+perf.clock_cycle_count = 498877059
+perf.data_cycle_count = 395940024
+(data duty cycle = 79%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 1048576 bytes
+perf.iterations = 12083
+(data transferred = 12669943808 bytes)
+perf.clock_cycle_count = 498880869
+perf.data_cycle_count = 395942784
+(data duty cycle = 79%)
+ data rate ***** bytes length = 1048576, rate = 0.793662 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 2097152 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00200000
+device = /dev/xdma0_c2h_0, size = 0x00200000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 2097152
+perf.iterations = 6038
+(data transferred = 12662603776 bytes)
+perf.clock_cycle_count = 498876889
+perf.data_cycle_count = 395719241
+(data duty cycle = 79%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 2097152 bytes
+perf.iterations = 6038
+(data transferred = 12662603776 bytes)
+perf.clock_cycle_count = 498880622
+perf.data_cycle_count = 395721984
+(data duty cycle = 79%)
+ data rate ***** bytes length = 2097152, rate = 0.793220 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 4194304 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00400000
+device = /dev/xdma0_c2h_0, size = 0x00400000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 4194304
+perf.iterations = 3021
+(data transferred = 12670992384 bytes)
+perf.clock_cycle_count = 498877541
+perf.data_cycle_count = 396026010
+(data duty cycle = 79%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 4194304 bytes
+perf.iterations = 3021
+(data transferred = 12670992384 bytes)
+perf.clock_cycle_count = 498881400
+perf.data_cycle_count = 396028800
+(data duty cycle = 79%)
+ data rate ***** bytes length = 4194304, rate = 0.793834 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 64 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000040
+device = /dev/xdma0_c2h_0, size = 0x00000040, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 64
+perf.iterations = 42634279
+(data transferred = 2728593856 bytes)
+perf.clock_cycle_count = 498878487
+perf.data_cycle_count = 85268674
+(data duty cycle = 17%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 64 bytes
+perf.iterations = 42634631
+(data transferred = 2728616384 bytes)
+perf.clock_cycle_count = 498882250
+perf.data_cycle_count = 85269250
+(data duty cycle = 17%)
+ data rate ***** bytes length = 64, rate = 0.170921 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 128 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000080
+device = /dev/xdma0_c2h_0, size = 0x00000080, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 128
+perf.iterations = 42089659
+(data transferred = 5387476352 bytes)
+perf.clock_cycle_count = 498878776
+perf.data_cycle_count = 168358900
+(data duty cycle = 33%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 128 bytes
+perf.iterations = 42090035
+(data transferred = 5387524480 bytes)
+perf.clock_cycle_count = 498882875
+perf.data_cycle_count = 168360116
+(data duty cycle = 33%)
+ data rate ***** bytes length = 128, rate = 0.337474 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 256 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000100
+device = /dev/xdma0_c2h_0, size = 0x00000100, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 256
+perf.iterations = 40322077
+(data transferred = 10322451712 bytes)
+perf.clock_cycle_count = 498878933
+perf.data_cycle_count = 322577186
+(data duty cycle = 64%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 256 bytes
+perf.iterations = 40322430
+(data transferred = 10322542080 bytes)
+perf.clock_cycle_count = 498882973
+perf.data_cycle_count = 322579400
+(data duty cycle = 64%)
+ data rate ***** bytes length = 256, rate = 0.646603 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 512 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000200
+device = /dev/xdma0_c2h_0, size = 0x00000200, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 512
+perf.iterations = 24102710
+(data transferred = 12340587520 bytes)
+perf.clock_cycle_count = 498878140
+perf.data_cycle_count = 385644160
+(data duty cycle = 77%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 512 bytes
+perf.iterations = 24102916
+(data transferred = 12340692992 bytes)
+perf.clock_cycle_count = 498881920
+perf.data_cycle_count = 385646791
+(data duty cycle = 77%)
+ data rate ***** bytes length = 512, rate = 0.773022 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 1024 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000400
+device = /dev/xdma0_c2h_0, size = 0x00000400, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 1024
+perf.iterations = 12152420
+(data transferred = 12444078080 bytes)
+perf.clock_cycle_count = 498876856
+perf.data_cycle_count = 388878368
+(data duty cycle = 77%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 1024 bytes
+perf.iterations = 12152532
+(data transferred = 12444192768 bytes)
+perf.clock_cycle_count = 498880969
+perf.data_cycle_count = 388881285
+(data duty cycle = 77%)
+ data rate ***** bytes length = 1024, rate = 0.779507 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 2048 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00000800
+device = /dev/xdma0_c2h_0, size = 0x00000800, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 2048
+perf.iterations = 6081207
+(data transferred = 12454311936 bytes)
+perf.clock_cycle_count = 498878921
+perf.data_cycle_count = 389198175
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 2048 bytes
+perf.iterations = 6081265
+(data transferred = 12454430720 bytes)
+perf.clock_cycle_count = 498883124
+perf.data_cycle_count = 389201217
+(data duty cycle = 78%)
+ data rate ***** bytes length = 2048, rate = 0.780145 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 4096 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00001000
+device = /dev/xdma0_c2h_0, size = 0x00001000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 4096
+perf.iterations = 3044622
+(data transferred = 12470771712 bytes)
+perf.clock_cycle_count = 498878321
+perf.data_cycle_count = 389712512
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 4096 bytes
+perf.iterations = 3044650
+(data transferred = 12470886400 bytes)
+perf.clock_cycle_count = 498882562
+perf.data_cycle_count = 389715428
+(data duty cycle = 78%)
+ data rate ***** bytes length = 4096, rate = 0.781177 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 8192 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00002000
+device = /dev/xdma0_c2h_0, size = 0x00002000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 8192
+perf.iterations = 1525604
+(data transferred = 12497747968 bytes)
+perf.clock_cycle_count = 498872146
+perf.data_cycle_count = 390555525
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 8192 bytes
+perf.iterations = 1525618
+(data transferred = 12497862656 bytes)
+perf.clock_cycle_count = 498876083
+perf.data_cycle_count = 390558291
+(data duty cycle = 78%)
+ data rate ***** bytes length = 8192, rate = 0.782876 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 16384 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00004000
+device = /dev/xdma0_c2h_0, size = 0x00004000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 16384
+perf.iterations = 763810
+(data transferred = 12514263040 bytes)
+perf.clock_cycle_count = 498876663
+perf.data_cycle_count = 391071630
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 16384 bytes
+perf.iterations = 763815
+(data transferred = 12514344960 bytes)
+perf.clock_cycle_count = 498879560
+perf.data_cycle_count = 391073609
+(data duty cycle = 78%)
+ data rate ***** bytes length = 16384, rate = 0.783904 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 32768 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00008000
+device = /dev/xdma0_c2h_0, size = 0x00008000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 32768
+perf.iterations = 382141
+(data transferred = 12521996288 bytes)
+perf.clock_cycle_count = 498876969
+perf.data_cycle_count = 391313864
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 32768 bytes
+perf.iterations = 382145
+(data transferred = 12522127360 bytes)
+perf.clock_cycle_count = 498880940
+perf.data_cycle_count = 391316729
+(data duty cycle = 78%)
+ data rate ***** bytes length = 32768, rate = 0.784389 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 65536 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00010000
+device = /dev/xdma0_c2h_0, size = 0x00010000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 65536
+perf.iterations = 191297
+(data transferred = 12536840192 bytes)
+perf.clock_cycle_count = 498878691
+perf.data_cycle_count = 391777152
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 65536 bytes
+perf.iterations = 191298
+(data transferred = 12536905728 bytes)
+perf.clock_cycle_count = 498882722
+perf.data_cycle_count = 391780058
+(data duty cycle = 78%)
+ data rate ***** bytes length = 65536, rate = 0.785315 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 131072 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00020000
+device = /dev/xdma0_c2h_0, size = 0x00020000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 131072
+perf.iterations = 95625
+(data transferred = 12533760000 bytes)
+perf.clock_cycle_count = 498877246
+perf.data_cycle_count = 391680809
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 131072 bytes
+perf.iterations = 95625
+(data transferred = 12533760000 bytes)
+perf.clock_cycle_count = 498881097
+perf.data_cycle_count = 391683593
+(data duty cycle = 78%)
+ data rate ***** bytes length = 131072, rate = 0.785124 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 262144 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00040000
+device = /dev/xdma0_c2h_0, size = 0x00040000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 262144
+perf.iterations = 47861
+(data transferred = 12546473984 bytes)
+perf.clock_cycle_count = 498878237
+perf.data_cycle_count = 392078328
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 262144 bytes
+perf.iterations = 47861
+(data transferred = 12546473984 bytes)
+perf.clock_cycle_count = 498882370
+perf.data_cycle_count = 392081281
+(data duty cycle = 78%)
+ data rate ***** bytes length = 262144, rate = 0.785919 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 524288 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00080000
+device = /dev/xdma0_c2h_0, size = 0x00080000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 524288
+perf.iterations = 23925
+(data transferred = 12543590400 bytes)
+perf.clock_cycle_count = 498878236
+perf.data_cycle_count = 392004028
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 524288 bytes
+perf.iterations = 23926
+(data transferred = 12544114688 bytes)
+perf.clock_cycle_count = 498882452
+perf.data_cycle_count = 392007058
+(data duty cycle = 78%)
+ data rate ***** bytes length = 524288, rate = 0.785770 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 1048576 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00100000
+device = /dev/xdma0_c2h_0, size = 0x00100000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 1048576
+perf.iterations = 11960
+(data transferred = 12540968960 bytes)
+perf.clock_cycle_count = 498878611
+perf.data_cycle_count = 391910604
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 1048576 bytes
+perf.iterations = 11960
+(data transferred = 12540968960 bytes)
+perf.clock_cycle_count = 498882355
+perf.data_cycle_count = 391913309
+(data duty cycle = 78%)
+ data rate ***** bytes length = 1048576, rate = 0.785583 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 2097152 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00200000
+device = /dev/xdma0_c2h_0, size = 0x00200000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 2097152
+perf.iterations = 5974
+(data transferred = 12528386048 bytes)
+perf.clock_cycle_count = 498878456
+perf.data_cycle_count = 391554857
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 2097152 bytes
+perf.iterations = 5974
+(data transferred = 12528386048 bytes)
+perf.clock_cycle_count = 498882208
+perf.data_cycle_count = 391557549
+(data duty cycle = 78%)
+ data rate ***** bytes length = 2097152, rate = 0.784870 
+perf.pending_count = 0
+** HW C2H = /dev/xdma0_c2h_0 bytecount = 4194304 and iteration = 1
+'/dev/xdma0_c2h_0'
+sscanf() = 1, value = 0x00000001
+ count = 1
+sscanf() = 1, value = 0x00400000
+device = /dev/xdma0_c2h_0, size = 0x00400000, count = 1
+IOCTL_XDMA_PERF_START succesful.
+IOCTL_XDMA_PERF_GET succesful.
+perf.transfer_size = 4194304
+perf.iterations = 2991
+(data transferred = 12545163264 bytes)
+perf.clock_cycle_count = 498881587
+perf.data_cycle_count = 392064384
+(data duty cycle = 78%)
+IOCTL_XDMA_PERF_STOP succesful.
+perf.transfer_size = 4194304 bytes
+perf.iterations = 2991
+(data transferred = 12545163264 bytes)
+perf.clock_cycle_count = 498884386
+perf.data_cycle_count = 392066364
+(data duty cycle = 78%)
+ data rate ***** bytes length = 4194304, rate = 0.785886 
+perf.pending_count = 0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
